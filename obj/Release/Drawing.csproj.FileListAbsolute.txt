@@ -1,0 +1,11 @@
+C:\Users\galha\source\repos\Drawing\bin\Release\Drawing.exe.config
+C:\Users\galha\source\repos\Drawing\bin\Release\Drawing.exe
+C:\Users\galha\source\repos\Drawing\bin\Release\Drawing.pdb
+C:\Users\galha\source\repos\Drawing\obj\Release\Drawing.csproj.AssemblyReference.cache
+C:\Users\galha\source\repos\Drawing\obj\Release\Drawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\galha\source\repos\Drawing\obj\Release\Drawing.Form1.resources
+C:\Users\galha\source\repos\Drawing\obj\Release\Drawing.Properties.Resources.resources
+C:\Users\galha\source\repos\Drawing\obj\Release\Drawing.csproj.GenerateResource.cache
+C:\Users\galha\source\repos\Drawing\obj\Release\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\galha\source\repos\Drawing\obj\Release\Drawing.exe
+C:\Users\galha\source\repos\Drawing\obj\Release\Drawing.pdb

@@ -1,0 +1,22 @@
+C:\Users\galha\source\repos\Drawing\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Users\galha\source\repos\Drawing\obj\Debug\Drawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\galha\source\repos\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\galha\source\repos\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\galha\source\repos\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\galha\source\repos\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\galha\source\repos\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\galha\source\repos\Drawing\bin\Debug\Drawing.exe
+C:\Users\galha\source\repos\Drawing\bin\Debug\Drawing.pdb
+C:\Users\galha\source\repos\Drawing\obj\Debug\Drawing.exe
+C:\Users\galha\source\repos\Drawing\obj\Debug\Drawing.pdb
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\bin\Debug\Drawing.exe.config
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\bin\Debug\Drawing.exe
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\bin\Debug\Drawing.pdb
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\obj\Debug\Drawing.csproj.AssemblyReference.cache
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\obj\Debug\Drawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\obj\Debug\Drawing.Form1.resources
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\obj\Debug\Drawing.exe
+C:\Users\נאוה ששון\Desktop\מדעי המחשב\סמסטר קיץ\מונחה עצמים\gal_nava_Drawing_app\obj\Debug\Drawing.pdb
